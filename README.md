@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Moneer A. Mizyed</h1>
 <p> A Highly skilled and relts-driven full-stack developer with a proven track record of 4 years in designing and delivering robust web applications., specialist in React and Nextjs, Proficient in React.js and Next.js, I specialize in creating scalable and performant server-side rendered applications that optimize user experiences. With expertise in Express.js, I seamlessly develop efficient APIs that seamlessly integrate with front-end frameworks. Deeply committed to software development principles, agile methodologies, and best practices, I consistently exceed client expectations by delivering high-quality solutions. A collaborative team player, I thrive in dynamic environments, leveraging my strong communication and problem-solving skills to foster innovation. Passionate about staying at the forefront of emerging technologies, I continuously enhance my knowledge to drive exceptional results and create cutting-edge user experiences.</p>
 
-- 🔭 I’m currently working for [Octavey](https://octavey.com/)
+- 🔭 I’m currently working for [Mabet](https://mabet.com.sa/ar)
 
-- 🌱 I’m interested in **Bun, Rust and Glang**
+- 🌱 I’m interested in **Glang**
 
 - 💬 Ask me about **Typescript , React and Nextjs**
 
